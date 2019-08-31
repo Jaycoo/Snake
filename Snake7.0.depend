@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1562579698 source:e:\learningdays\mystudysapce\数据结构学习\snake7.0\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<vector>
+	<queue>
+
+1567203160 source:d:\学习数据存放区\mystudysapce\数据结构学习\snake7.0\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<vector>
+	<queue>
+
